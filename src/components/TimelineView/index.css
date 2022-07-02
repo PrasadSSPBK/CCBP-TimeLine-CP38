@@ -1,0 +1,22 @@
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.para {
+  color: #171f46;
+  font-weight: 400;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+.head {
+  color: #1e293b;
+  font-weight: 700;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+.chronoContainer {
+  height: 800px;
+  width: 1000px;
+}
